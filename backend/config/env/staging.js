@@ -1,7 +1,7 @@
 /**
- * Production environment settings
+ * Staging environment settings
  *
- * This file can include shared settings for a production environment,
+ * This file can include shared settings for a staging environment,
  * such as API keys or remote database passwords.  If you're using
  * a version control solution for your Sails app, this file will
  * be committed to your repository unless you add it to your .gitignore
