@@ -1,5 +1,5 @@
 FROM node:8.6.0-alpine
-MAINTAINER Chuka Ofili <ofili@microsmart.tk>
+LABEL maintainer="Chuka Ofili <ofili@microsmart.tk>"
 
 WORKDIR /www
 
