@@ -4,8 +4,6 @@ A sample SailsJS (Node,Express) application.
 
 * [Installation](#installation)
 * [Starting App](#starting-app)
-* [Testing](#testing)
-* [Docker](#docker)
 
 ## Installation
 
